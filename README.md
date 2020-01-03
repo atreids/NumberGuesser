@@ -1,2 +1,2 @@
 # NumberGuesser
-Random number generater game vs a the computer
+Random number generater game vs the computer
